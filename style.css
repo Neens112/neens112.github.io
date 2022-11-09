@@ -1,0 +1,45 @@
+body{
+    background-color: lavender;
+}
+h2{
+    text-decoration: underline;
+}
+h3{
+    color:darkblue
+}
+p{
+    color:darkblue;
+    font-size: 16px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+ul{
+    font-style: italic;
+}
+a{
+    color: purple;
+}
+#short-bio{
+    background-color: wheat;
+    font-style: normal;
+    display: inline-block;
+}
+#table{
+    display: inline-block;
+    position: relative;
+}
+#game{
+    position: relative;
+}
+input[type=button]:hover {
+    background: #016ABC;
+    color: #fff;
+    border: 1px solid #eee;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px #eee;
+    text-shadow: none;
+}
+*{
+    margin:2;
+    padding:2;
+    border:2;
+}
